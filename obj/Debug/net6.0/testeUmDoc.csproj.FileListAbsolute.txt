@@ -1,0 +1,15 @@
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeUmDoc\bin\Debug\net6.0\testeUmDoc.exe
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeUmDoc\bin\Debug\net6.0\testeUmDoc.deps.json
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeUmDoc\bin\Debug\net6.0\testeUmDoc.runtimeconfig.json
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeUmDoc\bin\Debug\net6.0\testeUmDoc.dll
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeUmDoc\bin\Debug\net6.0\testeUmDoc.pdb
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeUmDoc\obj\Debug\net6.0\testeUmDoc.csproj.AssemblyReference.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeUmDoc\obj\Debug\net6.0\testeUmDoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeUmDoc\obj\Debug\net6.0\testeUmDoc.AssemblyInfoInputs.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeUmDoc\obj\Debug\net6.0\testeUmDoc.AssemblyInfo.cs
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeUmDoc\obj\Debug\net6.0\testeUmDoc.csproj.CoreCompileInputs.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeUmDoc\obj\Debug\net6.0\testeUmDoc.dll
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeUmDoc\obj\Debug\net6.0\refint\testeUmDoc.dll
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeUmDoc\obj\Debug\net6.0\testeUmDoc.pdb
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeUmDoc\obj\Debug\net6.0\testeUmDoc.genruntimeconfig.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeUmDoc\obj\Debug\net6.0\ref\testeUmDoc.dll
